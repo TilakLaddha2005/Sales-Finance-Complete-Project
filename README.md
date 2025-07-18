@@ -13,7 +13,7 @@ The Power BI report (Sales & Finance Dashboard.pbix) includes visual insights su
 - Year-over-Year Revenue Growth
 - Sales Concentration by Top Customers
 
-![Customer  Segmentation](/images/Customer  Segmentation.png)
+![Customer  Segmentation]("C:/Users/Tilak Laddha/OneDrive/Desktop/New folder (4)/PROJECT TO DO/sales finance complete project/PROJECT_/images/Customer  Segmentation.png")
 ![Executive Overview](/images/Executive Overview.png)
 ![Product & Category Performance](/images/Product & Category Performance.png)
 
