@@ -15,7 +15,7 @@ The Power BI report (Sales & Finance Dashboard.pbix) includes visual insights su
 
 ![Customer  Segmentation](https://github.com/TilakLaddha2005/Sales-Finance-Complete-Project/blob/main/images/Customer%20%20Segmentation.png?raw=true)
 ![Executive Overview](https://github.com/TilakLaddha2005/Sales-Finance-Complete-Project/blob/main/images/Executive%20Overview.png?raw=true)
-![Product & Category Performance](images/Product & Category Performance.png)
+![Product & Category Performance](https://github.com/TilakLaddha2005/Sales-Finance-Complete-Project/blob/main/images/Product%20&%20Category%20Performance.png?raw=true)
 
 ## Tools and Technologies
 
